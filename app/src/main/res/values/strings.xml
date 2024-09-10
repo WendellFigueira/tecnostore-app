@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TecnoStore</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Senha</string>
+    <string name="submit">Enviar</string>
+    <string name="name_hint">Nome</string>
+    <string name="address_hint">Endereço</string>
+    <string name="product_hint">Produto</string>
+    <string name="order_title">Realizar Pedido</string>
+    <string name="order_success">Pedido realizado com sucesso!</string>
+    <string name="error_empty_fields">Por favor, preencha todos os campos</string>
+    <string name="invalid_credentials">Credenciais inválidas</string>
+    <string name="login_title">Faça o Login</string>
+    <string name="laptops">Laptops</string>
+    <string name="smartphones">Smartphones</string>
+    <string name="accessories">Acessórios</string>
+    <string name="categoria">Categoria</string>
+</resources>
